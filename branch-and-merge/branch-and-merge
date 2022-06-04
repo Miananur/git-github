@@ -1,0 +1,19 @@
+1. What does git clean do? to delete untracked files
+
+2. What do the -d and -f flags for git clean do? 
+
+3. What git command creates a branch? git branch <name branch>
+
+4. What is the difference between a fast-forward and recursive merge? fast forward merge you have a straight line of history and with the recursive merge, it is of multiple lines.
+
+5. What git command changes to another branch? git checkout <name branch>
+
+6. How do you remove modified or deleted files from the working directory? with use command git reset
+
+7. What git command deletes a branch? git branch -d <branch>
+
+8. What does the git diff command do? tell us in detail what changes occurred between two Git reference points
+
+9. How do you remove files from the staging area? use command rm
+
+10. How do merge conflicts happen? A merge conflict is an event that occurs when Git is unable to automatically resolve differences in code between two commits
